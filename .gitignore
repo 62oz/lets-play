@@ -6,3 +6,5 @@ node_modules/*
 *.jar
 target/lets-play-0.0.1-SNAPSHOT.jar
 target/lets-play-0.0.1-SNAPSHOT.jar.original
+
+*.key
