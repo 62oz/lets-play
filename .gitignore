@@ -1,0 +1,8 @@
+node_modules/*
+*.DS_Store
+*.dll
+*.exe
+*.war
+*.jar
+target/lets-play-0.0.1-SNAPSHOT.jar
+target/lets-play-0.0.1-SNAPSHOT.jar.original
